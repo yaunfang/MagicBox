@@ -1,6 +1,6 @@
 # Windows使用日常记载：
 
-- ### 查找指定端口，并关闭占用的程序。
+- ### 查找指定端口，并关闭占用的程序。⚓
 
 ```
 E:\GIT_CK\***>netstat -aon|findstr "8081"
@@ -22,3 +22,14 @@ E:\GIT_CK\zhmp>
 
 ```
 
+- ## FireFox（火狐浏览器）打开页面时自动切换到阅读器视图
+
+  ☻不确定
+
+  操作bai方法如下：
+
+  在火狐地址栏中输入about:config,
+
+  然后du找到zhi browser.tabs.loadBookmarksInTabs，原本是false，双击这一行，改为true就可以了。
+
+- 
